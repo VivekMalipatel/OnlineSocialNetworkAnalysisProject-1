@@ -19,14 +19,3 @@ nx.draw_networkx_edges(G, pos, edge_color='gray', alpha=0.4)
 nx.draw_networkx_labels(G, pos, font_size=8, font_family='Arial')
 plt.axis('off')
 plt.show()
-
-
-
-
-
-
-
-
-
-
-
