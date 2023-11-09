@@ -49,45 +49,4 @@ Visualize the fetched data as a graph using packages like NetworkX, SNAP, Gephi,
 #### Step 3: Network Measures
 Calculate network measures like Degree Distribution, Clustering Coefficient, PageRank, Diameter, Closeness, and Betweenness. Choose appropriate measures to plot and analyze, and include these in your report.
 
-### Submission Instructions
-
-Submit the following in a `.zip` folder named `LASTNAME1_LASTNAME2_PJ1`:
-
-- Data files
-- Source code
-- PDF report
-
-Upload the `.zip` folder to Blackboard.
-
-### Grading Rubric
-
-| Points | Description                           |
-|--------|---------------------------------------|
-| 1      | Select platform in the first week     |
-| 3      | Data Collection                       |
-| 3      | Data Visualization                    |
-| 3      | Network Measures Calculation          |
-| **10** | **Total**                             |
-
-### Academic Integrity
-
-You must develop your own code for data scraping and cannot use public datasets. Referencing others' code is allowed but direct copying is not. Cite all used resources.
-
-### Obtaining API Keys
-
-#### Twitter:
-Follow the instructions provided at https://developer.twitter.com to apply for a developer account and obtain your API keys.
-
-#### Facebook:
-Visit https://developers.facebook.com, set up a developer account, and obtain the necessary credentials to use the Facebook API.
-
-### References
-
-- NetworkX: [Link](#)
-- SNAP: [Link](#)
-- Gephi: [Link](#)
-- NodeXL: [Link](#)
-- Graph-tool: [Link](#)
-
-> **Note:** Replace `[Link]` with actual URLs to the resources.
 
